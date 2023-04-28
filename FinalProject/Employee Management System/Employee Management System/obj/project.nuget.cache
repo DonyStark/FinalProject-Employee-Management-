@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nIKIcJrsvdVDvHg5iixRaW4N/hu0CGNgrWZtiN7xK3JTvHLyNWuTUF2Iygbp8Q920y9R/bzY82xaKfFzq8EqA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Doniyor\\Desktop\\CPRG211\\FinalProject\\Employee Management System\\Employee Management System\\EmployeeManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doniyor\\.nuget\\packages\\maikebing.system.windows.forms.datavisualization\\5.0.1\\maikebing.system.windows.forms.datavisualization.5.0.1.nupkg.sha512",
+    "C:\\Users\\Doniyor\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Doniyor\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Doniyor\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Doniyor\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Doniyor\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Doniyor\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Doniyor\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Doniyor\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Doniyor\\Desktop\\CPRG211\\FinalProject\\Employee Management System\\EmployeeManagementSystem.Data\\EmployeeManagementSystem.Data.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Doniyor\\Desktop\\CPRG211\\FinalProject\\Employee Management System\\EmployeeManagementSystem.Data\\EmployeeManagementSystem.Data.csproj",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
